@@ -32,7 +32,7 @@
 
 ### ▶️ Watch the Full Project Walkthrough
 
-**[🎥 OPEN DEMO VIDEO](YOUR_GOOGLE_DRIVE_VIDEO_LINK)**
+**[🎥 OPEN DEMO VIDEO](https://drive.google.com/file/d/1-JHLNDu57wmhhkPRqz8DJY2jtSAFo_kk/view?usp=sharing)**
 
 *The demo explains the project, dataset, cleaning process, analysis, visualizations, India findings, and final conclusion.*
 
@@ -59,18 +59,7 @@
 
 ---
 
-## 🎞️ Animated Preview
 
-> 💡 **Tip:** Add a short screen-recording GIF of your notebook/dashboard here. A 5–10 second looping GIF makes the repository immediately more visual.
-
-```text
-assets/
-└── demo.gif
-```
-
-```markdown
-![Global Happiness Analysis Demo](assets/demo.gif)
-```
 
 ---
 
